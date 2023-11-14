@@ -12,7 +12,7 @@
 
 
 ## Author
-👤 **Rayan Ahmed ,  **ibrahim Alghofili , **Abdullah Aldosari 
+👤 **Rayan Ahmed** ,  **ibrahim Alghofili** , **Abdullah Aldosari** 
 ## Resources
 https://www.kaggle.com/datasets/lasaljaywardena/global-cryptocurrency-price-database/data
 https://www.kaggle.com/code/lucasdataartist/crypto-currency-price-prediction-eda-lstm
